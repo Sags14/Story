@@ -1,1 +1,1 @@
-Dont get the point why the commant 'open' does not work in the windows!
+Dont get the point why the command 'open' does not work in the windows PC!
